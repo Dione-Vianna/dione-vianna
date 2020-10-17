@@ -24,3 +24,6 @@
 01100001 00100000 01010010 01101111 01101101 01100001 01101110 
 01101111 01110011 00110001 00110001 00111010 00110011 00110110 
 ```
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dione-vianna&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
