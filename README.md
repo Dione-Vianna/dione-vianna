@@ -26,7 +26,7 @@
 ```
 ---
 
-<p align="center">
+<p>
   <a href="https://github.com/dione-vianna/github-readme-stats">
     <img
       align="center"
