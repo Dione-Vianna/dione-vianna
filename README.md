@@ -30,14 +30,14 @@
   <a href="https://github.com/dione-vianna/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dione-vianna&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dione-vianna&layout=compact&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/dione-vianna/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=dione-vianna&layout=compact&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=dione-vianna&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
