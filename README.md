@@ -17,7 +17,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-263238?style=for-the-badge&logo=Node.js&link=https://github.com/Dione-Vianna/nestjs-typeorm/)](https://github.com/Dione-Vianna/nestjs-typeorm/)
 [![HTML5](https://img.shields.io/badge/-HTML5-263238?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/Doe/)
 [![CSS3](https://img.shields.io/badge/-CSS3-263238?style=for-the-badge&logo=css3&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/Doe/)
-[![ReactJS](https://img.shields.io/badge/-React-263238?style=for-the-badge&logo=react&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/dtmoney)
+[![ReactJS](https://img.shields.io/badge/-React-263238?style=for-the-badge&logo=react&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/github-explorer)
 
 ```
 01001000 01100001 00100000 01000101 01101100 01100101 00100000 
