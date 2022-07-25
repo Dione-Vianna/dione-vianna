@@ -13,10 +13,10 @@
 
 ### Conhecimentos | Knowledges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-263238?style=for-the-badge&logo=javascript&link=https://github.com/Dione-Vianna/realmdb)](https://github.com/Dione-Vianna/realmdb)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-263238?style=for-the-badge&logo=Node.js&link=https://github.com/Dione-Vianna/nestjs-typeorm/)](https://github.com/Dione-Vianna/nestjs-typeorm/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-263238?style=for-the-badge&logo=javascript&link=https://github.com/Dione-Vianna/realmdb)](https://github.com/Dione-Vianna/server-https)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-263238?style=for-the-badge&logo=Node.js&link=https://github.com/Dione-Vianna/nestjs-typeorm/)](https://github.com/Dione-Vianna/api-mercado-pago)
 [![HTML5](https://img.shields.io/badge/-HTML5-263238?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/Doe/)
-[![CSS3](https://img.shields.io/badge/-CSS3-263238?style=for-the-badge&logo=css3&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/Doe/)
+[![CSS3](https://img.shields.io/badge/-CSS3-263238?style=for-the-badge&logo=css3&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/ghibli)
 [![ReactJS](https://img.shields.io/badge/-React-263238?style=for-the-badge&logo=react&link=https://github.com/Dione-Vianna/Doe/)](https://github.com/Dione-Vianna/github-explorer)
 
 ```
